@@ -1,4 +1,4 @@
-# Pokemon Lite
+# PokeMaps Lite
 Test app using the [react-native-maps](https://github.com/react-native-maps/react-native-maps) component.
 
 ## Screenshots
